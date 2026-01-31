@@ -38,8 +38,11 @@ they are simply treated as non–protein-coding regions.
 **How to run**
 
 `python dna_frame_analyzer.py`
+
 You will be prompted to enter a DNA sequence manually.
+
 Example input
 `ATG-CGTAA--GCT`
+
 Example output
 `Best frame is Frame 2 with sequence: TGCGTAAGCT`
